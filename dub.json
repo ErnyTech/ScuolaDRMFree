@@ -1,0 +1,14 @@
+{
+    "name": "scuoladrmfree",
+    "description": "A tool for remove DRM from ScuolaBook PDF",
+    "copyright": "Copyright © Erny",
+    "license": "AGPL v3.0",
+	"authors": [
+		"Erny",
+		"Davide"
+	],
+	"dependencies": {
+		"semver": "~>0.3.2"
+	},
+	"dflags-ldc": ["-link-defaultlib-shared=false", "-O3"]
+}

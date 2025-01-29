@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/scuoladrmfree
+scuoladrmfree.so
+scuoladrmfree.dylib
+scuoladrmfree.dll
+scuoladrmfree.a
+scuoladrmfree.lib
+scuoladrmfree-test-*
+*.exe
+*.o
+*.obj
+*.lst
+dub.selections.json
+*.pdf
